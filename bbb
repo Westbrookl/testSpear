@@ -1,0 +1,2166 @@
+static acc_ratio:1.0
+static ran_ratio:0.9725
+freq_0.08_ratio:0.192
+edge_ratio:0.3305
+node_ratio:0.8675
+intense_ratio:0.8715
+
+static acc_ratio:0.322
+static ran_ratio:0.9785
+freq_0.08_ratio:0.9915
+edge_ratio:0.3295
+node_ratio:0.8695
+intense_ratio:0.872
+
+static acc_ratio:1.0
+static ran_ratio:0.9755
+freq_0.08_ratio:0.195
+edge_ratio:0.332
+node_ratio:0.875
+intense_ratio:0.583
+
+static acc_ratio:1.0
+static ran_ratio:0.974
+freq_0.08_ratio:0.99775
+edge_ratio:0.997
+node_ratio:0.8735
+intense_ratio:0.8825
+
+static acc_ratio:0.985
+static ran_ratio:0.8565
+freq_0.045_ratio:0.9955555555555555
+freq_0.05_ratio:0.9908
+freq_0.055_ratio:0.988
+freq_0.06_ratio:0.9826666666666667
+freq_0.065_ratio:0.9787692307692307
+freq_0.07_ratio:0.952
+freq_0.075_ratio:0.9456
+freq_0.08_ratio:0.92825
+edge_ratio:0.992
+node_ratio:0.859
+intense_ratio:0.8745
+edge_up_ratio:0.976
+node_up_ratio:0.6055
+intense_up_ratio:0.6375
+very_intense_ratio:0.244
+
+static acc_ratio:0.9915
+static ran_ratio:0.8505
+freq_0.045_ratio:0.9897777777777778
+freq_0.05_ratio:0.9884
+freq_0.055_ratio:0.9894545454545455
+freq_0.06_ratio:0.9756666666666667
+freq_0.065_ratio:0.9686153846153847
+freq_0.07_ratio:0.9597142857142857
+freq_0.075_ratio:0.9437333333333333
+freq_0.08_ratio:0.924
+edge_ratio:0.994
+node_ratio:0.8755
+intense_ratio:0.873
+edge_up_ratio:0.9625
+node_up_ratio:0.619
+intense_up_ratio:0.62
+very_intense_ratio:0.251
+
+static acc_ratio:0.9925
+static ran_ratio:0.852
+freq_0.045_ratio:0.9902222222222222
+freq_0.05_ratio:0.9884
+freq_0.055_ratio:0.9865454545454545
+freq_0.06_ratio:0.981
+freq_0.065_ratio:0.9726153846153847
+freq_0.07_ratio:0.9574285714285714
+freq_0.075_ratio:0.9424
+freq_0.08_ratio:0.92275
+edge_ratio:0.9885
+node_ratio:0.8715
+intense_ratio:0.872
+edge_up_ratio:0.965
+node_up_ratio:0.6205
+intense_up_ratio:0.6235
+very_intense_ratio:0.251
+
+static acc_ratio:0.9925
+static ran_ratio:0.847
+freq_0.045_ratio:0.9915555555555555
+freq_0.05_ratio:0.9904
+freq_0.055_ratio:0.9854545454545455
+freq_0.06_ratio:0.976
+freq_0.065_ratio:0.9655384615384616
+freq_0.07_ratio:0.9548571428571428
+freq_0.075_ratio:0.9461333333333334
+freq_0.08_ratio:0.927
+edge_ratio:0.9905
+node_ratio:0.855
+intense_ratio:0.8815
+edge_up_ratio:0.963
+node_up_ratio:0.619
+intense_up_ratio:0.632
+very_intense_ratio:0.251
+
+static acc_ratio:0.9905
+static ran_ratio:0.852
+freq_0.045_ratio:0.9977777777777778
+freq_0.05_ratio:0.9908
+freq_0.055_ratio:0.9916363636363636
+freq_0.06_ratio:0.975
+freq_0.065_ratio:0.9732307692307692
+freq_0.07_ratio:0.9542857142857143
+freq_0.075_ratio:0.9450666666666667
+freq_0.08_ratio:0.92025
+edge_ratio:0.993
+node_ratio:0.869
+intense_ratio:0.866
+edge_up_ratio:0.971
+node_up_ratio:0.6175
+intense_up_ratio:0.612
+very_intense_ratio:0.251
+
+static acc_ratio:0.994
+static ran_ratio:0.842
+freq_0.045_ratio:0.9911111111111112
+freq_0.05_ratio:0.99
+freq_0.055_ratio:0.9912727272727273
+freq_0.06_ratio:0.972
+freq_0.065_ratio:0.9612307692307692
+freq_0.07_ratio:0.958
+freq_0.075_ratio:0.9512
+freq_0.08_ratio:0.91
+edge_ratio:0.989
+node_ratio:0.8795
+intense_ratio:0.8735
+edge_up_ratio:0.961
+node_up_ratio:0.6455
+intense_up_ratio:0.616
+very_intense_ratio:0.2315
+
+static acc_ratio:0.9885
+static ran_ratio:0.8535
+freq_0.045_ratio:0.9964444444444445
+freq_0.05_ratio:0.9884
+freq_0.055_ratio:0.990909090909091
+freq_0.06_ratio:0.9783333333333334
+freq_0.065_ratio:0.9723076923076923
+freq_0.07_ratio:0.9494285714285714
+freq_0.075_ratio:0.9456
+freq_0.08_ratio:0.90975
+edge_ratio:0.988
+node_ratio:0.875
+intense_ratio:0.8835
+edge_up_ratio:0.9625
+node_up_ratio:0.6365
+intense_up_ratio:0.6135
+very_intense_ratio:0.2315
+
+static acc_ratio:0.9945
+static ran_ratio:0.8525
+freq_0.045_ratio:0.9951111111111111
+freq_0.05_ratio:0.9912
+freq_0.055_ratio:0.9865454545454545
+freq_0.06_ratio:0.974
+freq_0.065_ratio:0.9646153846153847
+freq_0.07_ratio:0.9522857142857143
+freq_0.075_ratio:0.9461333333333334
+freq_0.08_ratio:0.90675
+edge_ratio:0.9935
+node_ratio:0.8625
+intense_ratio:0.8645
+edge_up_ratio:0.9715
+node_up_ratio:0.6365
+intense_up_ratio:0.617
+very_intense_ratio:0.2315
+
+static acc_ratio:0.9915
+static ran_ratio:0.844
+freq_0.045_ratio:0.9915555555555555
+freq_0.05_ratio:0.9932
+freq_0.055_ratio:0.9916363636363636
+freq_0.06_ratio:0.9703333333333334
+freq_0.065_ratio:0.9658461538461538
+freq_0.07_ratio:0.9634285714285714
+freq_0.075_ratio:0.9402666666666667
+freq_0.08_ratio:0.91025
+edge_ratio:0.991
+node_ratio:0.8785
+intense_ratio:0.866
+edge_up_ratio:0.959
+node_up_ratio:0.645
+intense_up_ratio:0.6045
+very_intense_ratio:0.2315
+
+static acc_ratio:0.9945
+static ran_ratio:0.861
+freq_0.045_ratio:0.9915555555555555
+freq_0.05_ratio:0.994
+freq_0.055_ratio:0.9883636363636363
+freq_0.06_ratio:0.9716666666666667
+freq_0.065_ratio:0.9707692307692307
+freq_0.07_ratio:0.9537142857142857
+freq_0.075_ratio:0.9434666666666667
+freq_0.08_ratio:0.903
+edge_ratio:0.99
+node_ratio:0.8825
+intense_ratio:0.86
+edge_up_ratio:0.967
+node_up_ratio:0.637
+intense_up_ratio:0.6335
+very_intense_ratio:0.2315
+
+noderank_ratio:0.5504
+
+noderank_ratio:0.5396
+
+noderank_ratio:0.578
+
+noderank_ratio:0.5356
+
+noderank_ratio:0.5608
+
+noderank_ratio:0.5404
+
+noderank_ratio:0.5576
+
+noderank_ratio:0.5428
+
+noderank_ratio:0.5596
+
+noderank_ratio:0.5308
+
+static acc_ratio:0.828
+static ran_ratio:0.804
+freq_0.045_ratio:0.8044444444444444
+freq_0.05_ratio:0.8184
+freq_0.055_ratio:0.8109090909090909
+freq_0.06_ratio:0.7956666666666666
+freq_0.065_ratio:0.7981538461538461
+freq_0.07_ratio:0.8002857142857143
+freq_0.075_ratio:0.7778666666666667
+freq_0.08_ratio:0.757
+edge_ratio:0.6165
+node_ratio:0.8205
+intense_ratio:0.636
+edge_up_ratio:0.4635
+node_up_ratio:0.6045
+intense_up_ratio:0.41
+very_intense_ratio:0.193
+noderank_ratio:0.632
+
+static acc_ratio:0.9925
+static ran_ratio:0.8665
+freq_0.045_ratio:0.9911111111111112
+freq_0.05_ratio:0.994
+freq_0.055_ratio:0.9843636363636363
+freq_0.06_ratio:0.984
+freq_0.065_ratio:0.9729230769230769
+freq_0.07_ratio:0.9531428571428572
+freq_0.075_ratio:0.9392
+freq_0.08_ratio:0.929
+edge_ratio:0.989
+node_ratio:0.8705
+intense_ratio:0.863
+edge_up_ratio:0.9675
+node_up_ratio:0.6315
+intense_up_ratio:0.6285
+very_intense_ratio:0.2405
+noderank_ratio:0.816
+
+static acc_ratio:0.841
+static ran_ratio:0.8025
+freq_0.045_ratio:0.8022222222222222
+freq_0.05_ratio:0.8156
+freq_0.055_ratio:0.8214545454545454
+freq_0.06_ratio:0.8003333333333333
+freq_0.065_ratio:0.7932307692307692
+freq_0.07_ratio:0.7994285714285714
+freq_0.075_ratio:0.7818666666666667
+freq_0.08_ratio:0.77525
+edge_ratio:0.607
+node_ratio:0.8035
+intense_ratio:0.639
+edge_up_ratio:0.4635
+node_up_ratio:0.6105
+intense_up_ratio:0.414
+very_intense_ratio:0.193
+noderank_ratio:0.61
+
+static acc_ratio:0.994
+static ran_ratio:0.8445
+freq_0.045_ratio:0.9902222222222222
+freq_0.05_ratio:0.9884
+freq_0.055_ratio:0.9887272727272727
+freq_0.06_ratio:0.981
+freq_0.065_ratio:0.9713846153846154
+freq_0.07_ratio:0.95
+freq_0.075_ratio:0.9317333333333333
+freq_0.08_ratio:0.9195
+edge_ratio:0.994
+node_ratio:0.867
+intense_ratio:0.866
+edge_up_ratio:0.9645
+node_up_ratio:0.625
+intense_up_ratio:0.6165
+very_intense_ratio:0.2405
+noderank_ratio:0.8124
+
+static acc_ratio:0.833
+static ran_ratio:0.8025
+freq_0.045_ratio:0.804
+freq_0.05_ratio:0.8152
+freq_0.055_ratio:0.8109090909090909
+freq_0.06_ratio:0.7953333333333333
+freq_0.065_ratio:0.7987692307692308
+freq_0.07_ratio:0.7948571428571428
+freq_0.075_ratio:0.7752
+freq_0.08_ratio:0.75675
+edge_ratio:0.6105
+node_ratio:0.82
+intense_ratio:0.6595
+edge_up_ratio:0.4575
+node_up_ratio:0.593
+intense_up_ratio:0.4125
+very_intense_ratio:0.193
+noderank_ratio:0.6284
+
+static acc_ratio:0.993
+static ran_ratio:0.8585
+freq_0.045_ratio:0.9906666666666667
+freq_0.05_ratio:0.9872
+freq_0.055_ratio:0.9883636363636363
+freq_0.06_ratio:0.9843333333333333
+freq_0.065_ratio:0.9692307692307692
+freq_0.07_ratio:0.9545714285714286
+freq_0.075_ratio:0.9426666666666667
+freq_0.08_ratio:0.9195
+edge_ratio:0.992
+node_ratio:0.868
+intense_ratio:0.86
+edge_up_ratio:0.9765
+node_up_ratio:0.6125
+intense_up_ratio:0.636
+very_intense_ratio:0.236
+noderank_ratio:0.8068
+
+static acc_ratio:0.822
+static ran_ratio:0.803
+freq_0.045_ratio:0.8004444444444444
+freq_0.05_ratio:0.8272
+freq_0.055_ratio:0.8141818181818182
+freq_0.06_ratio:0.7903333333333333
+freq_0.065_ratio:0.7938461538461539
+freq_0.07_ratio:0.79
+freq_0.075_ratio:0.7797333333333333
+freq_0.08_ratio:0.7665
+edge_ratio:0.6225
+node_ratio:0.8065
+intense_ratio:0.6445
+edge_up_ratio:0.472
+node_up_ratio:0.5875
+intense_up_ratio:0.409
+very_intense_ratio:0.193
+noderank_ratio:0.6164
+
+static acc_ratio:0.991
+static ran_ratio:0.8565
+freq_0.045_ratio:0.9937777777777778
+freq_0.05_ratio:0.9916
+freq_0.055_ratio:0.9818181818181818
+freq_0.06_ratio:0.9783333333333334
+freq_0.065_ratio:0.9732307692307692
+freq_0.07_ratio:0.9568571428571429
+freq_0.075_ratio:0.9448
+freq_0.08_ratio:0.9245
+edge_ratio:0.988
+node_ratio:0.8755
+intense_ratio:0.8565
+edge_up_ratio:0.965
+node_up_ratio:0.6385
+intense_up_ratio:0.634
+very_intense_ratio:0.2405
+noderank_ratio:0.8148
+
+static acc_ratio:0.8395
+static ran_ratio:0.812
+freq_0.045_ratio:0.8124444444444444
+freq_0.05_ratio:0.8056
+freq_0.055_ratio:0.8141818181818182
+freq_0.06_ratio:0.8056666666666666
+freq_0.065_ratio:0.7876923076923077
+freq_0.07_ratio:0.7994285714285714
+freq_0.075_ratio:0.7909333333333334
+freq_0.08_ratio:0.76625
+edge_ratio:0.607
+node_ratio:0.8265
+intense_ratio:0.639
+edge_up_ratio:0.468
+node_up_ratio:0.604
+intense_up_ratio:0.4165
+very_intense_ratio:0.193
+noderank_ratio:0.6124
+
+static acc_ratio:0.9945
+static ran_ratio:0.8645
+freq_0.045_ratio:0.9946666666666667
+freq_0.05_ratio:0.988
+freq_0.055_ratio:0.9883636363636363
+freq_0.06_ratio:0.9836666666666667
+freq_0.065_ratio:0.9726153846153847
+freq_0.07_ratio:0.958
+freq_0.075_ratio:0.9346666666666666
+freq_0.08_ratio:0.9135
+edge_ratio:0.992
+node_ratio:0.858
+intense_ratio:0.857
+edge_up_ratio:0.97
+node_up_ratio:0.6365
+intense_up_ratio:0.615
+very_intense_ratio:0.237
+noderank_ratio:0.8088
+
+noderank_ratio:0.554
+
+noderank_ratio:0.5456
+
+noderank_ratio:0.5436
+
+noderank_ratio:0.5412
+
+noderank_ratio:0.552
+
+static acc_ratio:0.9945
+static ran_ratio:0.85
+freq_0.045_ratio:0.9897777777777778
+freq_0.05_ratio:0.9948
+freq_0.055_ratio:0.984
+freq_0.06_ratio:0.979
+freq_0.065_ratio:0.9636923076923077
+freq_0.07_ratio:0.9557142857142857
+freq_0.075_ratio:0.9370666666666667
+freq_0.08_ratio:0.92175
+edge_ratio:0.991
+node_ratio:0.8745
+intense_ratio:0.8685
+edge_up_ratio:0.9665
+node_up_ratio:0.635
+intense_up_ratio:0.6515
+very_intense_ratio:0.2495
+noderank_ratio:0.5356
+
+static acc_ratio:0.991
+static ran_ratio:0.8605
+freq_0.045_ratio:0.9928888888888889
+freq_0.05_ratio:0.996
+freq_0.055_ratio:0.9843636363636363
+freq_0.06_ratio:0.981
+freq_0.065_ratio:0.9710769230769231
+freq_0.07_ratio:0.9565714285714285
+freq_0.075_ratio:0.9306666666666666
+freq_0.08_ratio:0.92
+edge_ratio:0.989
+node_ratio:0.8745
+intense_ratio:0.88
+edge_up_ratio:0.9705
+node_up_ratio:0.6285
+intense_up_ratio:0.629
+very_intense_ratio:0.2395
+noderank_ratio:0.5424
+
+static acc_ratio:0.992
+static ran_ratio:0.8595
+freq_0.045_ratio:0.9933333333333333
+freq_0.05_ratio:0.9936
+freq_0.055_ratio:0.9832727272727273
+freq_0.06_ratio:0.9806666666666667
+freq_0.065_ratio:0.9621538461538461
+freq_0.07_ratio:0.9585714285714285
+freq_0.075_ratio:0.9370666666666667
+freq_0.08_ratio:0.91825
+edge_ratio:0.985
+node_ratio:0.8705
+intense_ratio:0.8575
+edge_up_ratio:0.9635
+node_up_ratio:0.6265
+intense_up_ratio:0.6265
+very_intense_ratio:0.2495
+noderank_ratio:0.5512
+
+noderank_ratio:0.5396
+
+noderank_ratio:0.5432
+
+noderank_ratio:0.55
+
+noderank_ratio:0.5436
+
+noderank_ratio:0.5556
+
+static acc_ratio:0.9955
+static ran_ratio:0.862
+freq_0.045_ratio:0.9946666666666667
+freq_0.05_ratio:0.9912
+freq_0.055_ratio:0.9832727272727273
+freq_0.06_ratio:0.98
+freq_0.065_ratio:0.9587692307692308
+freq_0.07_ratio:0.9597142857142857
+freq_0.075_ratio:0.9352
+freq_0.08_ratio:0.91075
+edge_ratio:0.9915
+node_ratio:0.863
+intense_ratio:0.8585
+edge_up_ratio:0.9545
+node_up_ratio:0.623
+intense_up_ratio:0.6145
+very_intense_ratio:0.2535
+noderank_ratio:0.5376
+
+static acc_ratio:0.995
+static ran_ratio:0.859
+freq_0.045_ratio:0.9888888888888889
+freq_0.05_ratio:0.9952
+freq_0.055_ratio:0.9890909090909091
+freq_0.06_ratio:0.98
+freq_0.065_ratio:0.9655384615384616
+freq_0.07_ratio:0.9611428571428572
+freq_0.075_ratio:0.9333333333333333
+freq_0.08_ratio:0.9225
+edge_ratio:0.992
+node_ratio:0.865
+intense_ratio:0.8385
+edge_up_ratio:0.968
+node_up_ratio:0.6155
+intense_up_ratio:0.637
+very_intense_ratio:0.25
+noderank_ratio:0.5432
+
+noderank_ratio:0.0028
+
+noderank_ratio:0.0036
+
+noderank_ratio:0.0036
+
+noderank_ratio:0.004
+
+noderank_ratio:0.0036
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.0015
+node_up_ratio:0.0015
+intense_up_ratio:0.0015
+very_intense_ratio:0.0
+noderank_ratio:0.0012
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.0015
+node_up_ratio:0.0015
+intense_up_ratio:0.0015
+very_intense_ratio:0.0005
+noderank_ratio:0.0012
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.001
+node_up_ratio:0.0015
+intense_up_ratio:0.0015
+very_intense_ratio:0.0005
+noderank_ratio:0.0012
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.0015
+node_up_ratio:0.0015
+intense_up_ratio:0.001
+very_intense_ratio:0.0
+noderank_ratio:0.0012
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.0015
+node_up_ratio:0.0015
+intense_up_ratio:0.001
+very_intense_ratio:0.0
+noderank_ratio:0.0012
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.0015
+node_up_ratio:0.0015
+intense_up_ratio:0.0015
+very_intense_ratio:0.0015
+noderank_ratio:0.0012
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.0015
+node_up_ratio:0.0015
+intense_up_ratio:0.0015
+very_intense_ratio:0.001
+noderank_ratio:0.0012
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.0015
+node_up_ratio:0.0015
+intense_up_ratio:0.0015
+very_intense_ratio:0.0015
+noderank_ratio:0.0012
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.0015
+node_up_ratio:0.001
+intense_up_ratio:0.0015
+very_intense_ratio:0.001
+noderank_ratio:0.0012
+
+static acc_ratio:0.0015
+static ran_ratio:0.0015
+freq_0.045_ratio:0.0013333333333333333
+freq_0.05_ratio:0.0012
+freq_0.055_ratio:0.001090909090909091
+freq_0.06_ratio:0.001
+freq_0.065_ratio:0.0009230769230769231
+freq_0.07_ratio:0.0008571428571428571
+freq_0.075_ratio:0.0008
+freq_0.08_ratio:0.00075
+edge_ratio:0.0015
+node_ratio:0.0015
+intense_ratio:0.0015
+edge_up_ratio:0.0015
+node_up_ratio:0.0015
+intense_up_ratio:0.0015
+very_intense_ratio:0.001
+noderank_ratio:0.0012
+
+static acc_ratio:0.9915
+static ran_ratio:0.839
+freq_0.045_ratio:0.9946666666666667
+freq_0.05_ratio:0.988
+freq_0.055_ratio:0.9923636363636363
+freq_0.06_ratio:0.9806666666666667
+freq_0.065_ratio:0.9735384615384616
+freq_0.07_ratio:0.9494285714285714
+freq_0.075_ratio:0.94
+freq_0.08_ratio:0.92125
+edge_ratio:0.9895
+node_ratio:0.881
+intense_ratio:0.857
+edge_up_ratio:0.963
+node_up_ratio:0.66
+intense_up_ratio:0.6345
+very_intense_ratio:0.257
+noderank_ratio:0.5616
+
+static acc_ratio:0.995
+static ran_ratio:0.8345
+freq_0.045_ratio:0.992
+freq_0.05_ratio:0.9864
+freq_0.055_ratio:0.9854545454545455
+freq_0.06_ratio:0.978
+freq_0.065_ratio:0.972
+freq_0.07_ratio:0.9594285714285714
+freq_0.075_ratio:0.9442666666666667
+freq_0.08_ratio:0.9065
+edge_ratio:0.9885
+node_ratio:0.868
+intense_ratio:0.8645
+edge_up_ratio:0.956
+node_up_ratio:0.62
+intense_up_ratio:0.633
+very_intense_ratio:0.257
+noderank_ratio:0.5548
+
+static acc_ratio:0.9935
+static ran_ratio:0.8575
+freq_0.045_ratio:0.9884444444444445
+freq_0.05_ratio:0.9856
+freq_0.055_ratio:0.9894545454545455
+freq_0.06_ratio:0.984
+freq_0.065_ratio:0.9769230769230769
+freq_0.07_ratio:0.9571428571428572
+freq_0.075_ratio:0.9442666666666667
+freq_0.08_ratio:0.914
+edge_ratio:0.977
+node_ratio:0.888
+intense_ratio:0.8525
+edge_up_ratio:0.969
+node_up_ratio:0.625
+intense_up_ratio:0.617
+very_intense_ratio:0.257
+noderank_ratio:0.5484
+
+static acc_ratio:0.9935
+static ran_ratio:0.8555
+freq_0.045_ratio:0.9924444444444445
+freq_0.05_ratio:0.988
+freq_0.055_ratio:0.9876363636363636
+freq_0.06_ratio:0.9783333333333334
+freq_0.065_ratio:0.9741538461538461
+freq_0.07_ratio:0.9637142857142857
+freq_0.075_ratio:0.9434666666666667
+freq_0.08_ratio:0.9045
+edge_ratio:0.9915
+node_ratio:0.8805
+intense_ratio:0.861
+edge_up_ratio:0.971
+node_up_ratio:0.6365
+intense_up_ratio:0.6345
+very_intense_ratio:0.257
+noderank_ratio:0.5552
+
+static acc_ratio:0.9895
+static ran_ratio:0.862
+freq_0.045_ratio:0.9902222222222222
+freq_0.05_ratio:0.9848
+freq_0.055_ratio:0.9916363636363636
+freq_0.06_ratio:0.9783333333333334
+freq_0.065_ratio:0.9756923076923077
+freq_0.07_ratio:0.9548571428571428
+freq_0.075_ratio:0.936
+freq_0.08_ratio:0.8995
+edge_ratio:0.992
+node_ratio:0.874
+intense_ratio:0.863
+edge_up_ratio:0.954
+node_up_ratio:0.629
+intense_up_ratio:0.6205
+very_intense_ratio:0.257
+noderank_ratio:0.552
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:0.6666666666666666
+edge_0_90 acc_ratio:0.6666666666666666
+edge_0_100 acc_ratio:1.0
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:1.0
+node_0_80 acc_ratio:0.6666666666666666
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:1.0
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:1.0
+all_0_80 acc_ratio:1.0
+all_0_90 acc_ratio:0.6666666666666666
+all_0_100 acc_ratio:0.25
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:1.0
+edge_0_90 acc_ratio:0.6666666666666666
+edge_0_100 acc_ratio:0.6666666666666666
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:1.0
+node_0_80 acc_ratio:0.6666666666666666
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:1.0
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:1.0
+all_0_80 acc_ratio:0.3333333333333333
+all_0_90 acc_ratio:0.6666666666666666
+all_0_100 acc_ratio:0.5
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:0.6666666666666666
+edge_0_90 acc_ratio:0.6666666666666666
+edge_0_100 acc_ratio:1.0
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:0.6666666666666666
+node_0_80 acc_ratio:1.0
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:1.0
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:1.0
+all_0_80 acc_ratio:0.6666666666666666
+all_0_90 acc_ratio:0.3333333333333333
+all_0_100 acc_ratio:0.25
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:0.6666666666666666
+edge_0_90 acc_ratio:1.0
+edge_0_100 acc_ratio:1.0
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:1.0
+node_0_80 acc_ratio:1.0
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:0.6666666666666666
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:1.0
+all_0_80 acc_ratio:0.3333333333333333
+all_0_90 acc_ratio:0.6666666666666666
+all_0_100 acc_ratio:0.5
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:1.0
+edge_0_90 acc_ratio:0.6666666666666666
+edge_0_100 acc_ratio:0.6666666666666666
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:1.0
+node_0_80 acc_ratio:0.6666666666666666
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:1.0
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:1.0
+all_0_80 acc_ratio:1.0
+all_0_90 acc_ratio:0.3333333333333333
+all_0_100 acc_ratio:0.5
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:0.6666666666666666
+edge_0_90 acc_ratio:0.6666666666666666
+edge_0_100 acc_ratio:1.0
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:1.0
+node_0_80 acc_ratio:1.0
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:0.3333333333333333
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:1.0
+all_0_80 acc_ratio:0.6666666666666666
+all_0_90 acc_ratio:0.6666666666666666
+all_0_100 acc_ratio:0.3333333333333333
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:0.6666666666666666
+edge_0_90 acc_ratio:0.6666666666666666
+edge_0_100 acc_ratio:1.0
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:1.0
+node_0_80 acc_ratio:1.0
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:0.6666666666666666
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:1.0
+all_0_80 acc_ratio:0.6666666666666666
+all_0_90 acc_ratio:0.3333333333333333
+all_0_100 acc_ratio:0.3333333333333333
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:1.0
+edge_0_90 acc_ratio:1.0
+edge_0_100 acc_ratio:1.0
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:1.0
+node_0_80 acc_ratio:0.6666666666666666
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:0.6666666666666666
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:0.6666666666666666
+all_0_80 acc_ratio:0.6666666666666666
+all_0_90 acc_ratio:0.6666666666666666
+all_0_100 acc_ratio:0.3333333333333333
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:1.0
+edge_0_90 acc_ratio:0.6666666666666666
+edge_0_100 acc_ratio:1.0
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:1.0
+node_0_80 acc_ratio:1.0
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:0.3333333333333333
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:0.6666666666666666
+all_0_80 acc_ratio:0.6666666666666666
+all_0_90 acc_ratio:0.3333333333333333
+all_0_100 acc_ratio:0.3333333333333333
+
+rate_0.04 acc_ratio:1.0
+rate_0.05 acc_ratio:1.0
+rate_0.060000000000000005 acc_ratio:1.0
+rate_0.07 acc_ratio:1.0
+rate_0.08 acc_ratio:1.0
+rate_0.09 acc_ratio:1.0
+rate_0.09999999999999999 acc_ratio:1.0
+rate_0.10999999999999999 acc_ratio:1.0
+rate_0.11999999999999998 acc_ratio:1.0
+rate_0.12999999999999998 acc_ratio:1.0
+rate_0.13999999999999999 acc_ratio:1.0
+rate_0.15 acc_ratio:1.0
+rate_0.16 acc_ratio:1.0
+
+edge_0_30 acc_ratio:1.0
+edge_0_40 acc_ratio:1.0
+edge_0_50 acc_ratio:1.0
+edge_0_60 acc_ratio:1.0
+edge_0_70 acc_ratio:1.0
+edge_0_80 acc_ratio:1.0
+edge_0_90 acc_ratio:1.0
+edge_0_100 acc_ratio:0.6666666666666666
+
+node_0_30 acc_ratio:1.0
+node_0_40 acc_ratio:1.0
+node_0_50 acc_ratio:1.0
+node_0_60 acc_ratio:1.0
+node_0_70 acc_ratio:1.0
+node_0_80 acc_ratio:1.0
+node_0_90 acc_ratio:1.0
+node_0_100 acc_ratio:0.6666666666666666
+
+all_0_30 acc_ratio:1.0
+all_0_40 acc_ratio:1.0
+all_0_50 acc_ratio:1.0
+all_0_60 acc_ratio:1.0
+all_0_70 acc_ratio:0.6666666666666666
+all_0_80 acc_ratio:0.6666666666666666
+all_0_90 acc_ratio:0.6666666666666666
+all_0_100 acc_ratio:0.3333333333333333
+
+rate_0.04 acc_ratio:0.99
+rate_0.05 acc_ratio:0.9856
+rate_0.06 acc_ratio:0.9733422192602466
+rate_0.07 acc_ratio:0.956
+rate_0.08 acc_ratio:0.92725
+rate_0.09 acc_ratio:0.8773333333333333
+rate_0.10 acc_ratio:0.8226
+rate_0.11 acc_ratio:0.8058181818181818
+rate_0.12 acc_ratio:0.7686666666666667
+rate_0.13 acc_ratio:0.7027692307692308
+rate_0.14 acc_ratio:0.6858571428571428
+rate_0.15 acc_ratio:0.6528
+rate_0.16 acc_ratio:0.626375
+
+edge_0_30 acc_ratio:0.9965
+edge_0_40 acc_ratio:0.9865
+edge_0_50 acc_ratio:0.9925
+edge_0_60 acc_ratio:0.992
+edge_0_70 acc_ratio:0.9615
+edge_0_80 acc_ratio:0.868
+edge_0_90 acc_ratio:0.666
+edge_0_100 acc_ratio:0.5155
+
+node_0_30 acc_ratio:0.992
+node_0_40 acc_ratio:0.952
+node_0_50 acc_ratio:0.8675
+node_0_60 acc_ratio:0.7715
+node_0_70 acc_ratio:0.636
+node_0_80 acc_ratio:0.5135
+node_0_90 acc_ratio:0.4015
+node_0_100 acc_ratio:0.323
+
+all_0_30 acc_ratio:0.995
+all_0_40 acc_ratio:0.953
+all_0_50 acc_ratio:0.867
+all_0_60 acc_ratio:0.727
+all_0_70 acc_ratio:0.6115
+all_0_80 acc_ratio:0.49525237381309345
+all_0_90 acc_ratio:0.351
+all_0_100 acc_ratio:0.2355
+
+rate_0.04 acc_ratio:0.992
+rate_0.05 acc_ratio:0.9888
+rate_0.06 acc_ratio:0.9773408863712096
+rate_0.07 acc_ratio:0.9468571428571428
+rate_0.08 acc_ratio:0.932
+rate_0.09 acc_ratio:0.8871111111111111
+rate_0.10 acc_ratio:0.8306
+rate_0.11 acc_ratio:0.7872727272727272
+rate_0.12 acc_ratio:0.7545
+rate_0.13 acc_ratio:0.705076923076923
+rate_0.14 acc_ratio:0.6957142857142857
+rate_0.15 acc_ratio:0.6506666666666666
+rate_0.16 acc_ratio:0.6435
+
+edge_0_30 acc_ratio:0.9965
+edge_0_40 acc_ratio:0.995
+edge_0_50 acc_ratio:0.9935
+edge_0_60 acc_ratio:0.991
+edge_0_70 acc_ratio:0.9595
+edge_0_80 acc_ratio:0.8735
+edge_0_90 acc_ratio:0.676
+edge_0_100 acc_ratio:0.5085
+
+node_0_30 acc_ratio:0.992
+node_0_40 acc_ratio:0.958
+node_0_50 acc_ratio:0.8755
+node_0_60 acc_ratio:0.7835
+node_0_70 acc_ratio:0.6135
+node_0_80 acc_ratio:0.5115
+node_0_90 acc_ratio:0.392
+node_0_100 acc_ratio:0.308
+
+all_0_30 acc_ratio:0.996
+all_0_40 acc_ratio:0.9525
+all_0_50 acc_ratio:0.8775
+all_0_60 acc_ratio:0.718
+all_0_70 acc_ratio:0.631
+all_0_80 acc_ratio:0.4897551224387806
+all_0_90 acc_ratio:0.3505
+all_0_100 acc_ratio:0.2355
+
+rate_0.04 acc_ratio:0.9895
+rate_0.05 acc_ratio:0.99
+rate_0.06 acc_ratio:0.9836721092969011
+rate_0.07 acc_ratio:0.9622857142857143
+rate_0.08 acc_ratio:0.91925
+rate_0.09 acc_ratio:0.876
+rate_0.10 acc_ratio:0.8262
+rate_0.11 acc_ratio:0.7950909090909091
+rate_0.12 acc_ratio:0.7658333333333334
+rate_0.13 acc_ratio:0.706
+rate_0.14 acc_ratio:0.6927142857142857
+rate_0.15 acc_ratio:0.6544
+rate_0.16 acc_ratio:0.64225
+
+edge_0_30 acc_ratio:0.991
+edge_0_40 acc_ratio:0.99
+edge_0_50 acc_ratio:0.991
+edge_0_60 acc_ratio:0.989
+edge_0_70 acc_ratio:0.9595
+edge_0_80 acc_ratio:0.864
+edge_0_90 acc_ratio:0.6695
+edge_0_100 acc_ratio:0.5115
+
+node_0_30 acc_ratio:0.996
+node_0_40 acc_ratio:0.9555
+node_0_50 acc_ratio:0.8655
+node_0_60 acc_ratio:0.7805
+node_0_70 acc_ratio:0.632
+node_0_80 acc_ratio:0.5035
+node_0_90 acc_ratio:0.4265
+node_0_100 acc_ratio:0.3075
+
+all_0_30 acc_ratio:0.9925
+all_0_40 acc_ratio:0.9525
+all_0_50 acc_ratio:0.8695
+all_0_60 acc_ratio:0.722
+all_0_70 acc_ratio:0.603
+all_0_80 acc_ratio:0.5017491254372813
+all_0_90 acc_ratio:0.3615
+all_0_100 acc_ratio:0.25
+
+rate_0.04 acc_ratio:0.9985
+rate_0.06 acc_ratio:0.9806666666666667
+rate_0.08 acc_ratio:0.93275
+rate_0.10 acc_ratio:0.8406
+rate_0.12 acc_ratio:0.7626666666666667
+rate_0.14 acc_ratio:0.6971428571428572
+rate_0.16 acc_ratio:0.633625
+
+edge_0_30 acc_ratio:0.994
+edge_0_40 acc_ratio:0.989
+edge_0_50 acc_ratio:0.9945
+edge_0_60 acc_ratio:0.984
+edge_0_70 acc_ratio:0.9615
+edge_0_80 acc_ratio:0.865
+edge_0_90 acc_ratio:0.6805
+edge_0_100 acc_ratio:0.5
+
+node_0_30 acc_ratio:0.997
+node_0_40 acc_ratio:0.959
+node_0_50 acc_ratio:0.879
+node_0_60 acc_ratio:0.7575
+node_0_70 acc_ratio:0.6225
+node_0_80 acc_ratio:0.534
+node_0_90 acc_ratio:0.3975
+node_0_100 acc_ratio:0.313
+
+all_0_30 acc_ratio:0.9905
+all_0_40 acc_ratio:0.963
+all_0_50 acc_ratio:0.8805
+all_0_60 acc_ratio:0.7335
+all_0_70 acc_ratio:0.611
+all_0_80 acc_ratio:0.49725137431284355
+all_0_90 acc_ratio:0.359
+all_0_100 acc_ratio:0.2255
+
+rate_0.04 acc_ratio:0.995
+rate_0.06 acc_ratio:0.9783333333333334
+rate_0.08 acc_ratio:0.9365
+rate_0.10 acc_ratio:0.8558
+rate_0.12 acc_ratio:0.754
+rate_0.14 acc_ratio:0.6917142857142857
+rate_0.16 acc_ratio:0.632375
+
+edge_0_30 acc_ratio:0.9925
+edge_0_40 acc_ratio:0.9915
+edge_0_50 acc_ratio:0.991
+edge_0_60 acc_ratio:0.9855
+edge_0_70 acc_ratio:0.9665
+edge_0_80 acc_ratio:0.853
+edge_0_90 acc_ratio:0.6755
+edge_0_100 acc_ratio:0.5045
+
+node_0_30 acc_ratio:0.996
+node_0_40 acc_ratio:0.9555
+node_0_50 acc_ratio:0.8635
+node_0_60 acc_ratio:0.7625
+node_0_70 acc_ratio:0.6385
+node_0_80 acc_ratio:0.5155
+node_0_90 acc_ratio:0.418
+node_0_100 acc_ratio:0.31
+
+all_0_30 acc_ratio:0.995
+all_0_40 acc_ratio:0.961
+all_0_50 acc_ratio:0.875
+all_0_60 acc_ratio:0.7345
+all_0_70 acc_ratio:0.609
+all_0_80 acc_ratio:0.4847576211894053
+all_0_90 acc_ratio:0.35
+all_0_100 acc_ratio:0.2505
+
+rate_0.04 acc_ratio:0.9965
+rate_0.06 acc_ratio:0.982
+rate_0.08 acc_ratio:0.928
+rate_0.10 acc_ratio:0.8408
+rate_0.12 acc_ratio:0.7535
+rate_0.14 acc_ratio:0.6935714285714286
+rate_0.16 acc_ratio:0.632875
+
+edge_0_30 acc_ratio:0.9885
+edge_0_40 acc_ratio:0.9935
+edge_0_50 acc_ratio:0.9895
+edge_0_60 acc_ratio:0.991
+edge_0_70 acc_ratio:0.9655
+edge_0_80 acc_ratio:0.8635
+edge_0_90 acc_ratio:0.6785
+edge_0_100 acc_ratio:0.5105
+
+node_0_30 acc_ratio:0.994
+node_0_40 acc_ratio:0.9515
+node_0_50 acc_ratio:0.882
+node_0_60 acc_ratio:0.7735
+node_0_70 acc_ratio:0.6275
+node_0_80 acc_ratio:0.5145
+node_0_90 acc_ratio:0.4145
+node_0_100 acc_ratio:0.312
+
+all_0_30 acc_ratio:0.9965
+all_0_40 acc_ratio:0.953
+all_0_50 acc_ratio:0.86
+all_0_60 acc_ratio:0.732
+all_0_70 acc_ratio:0.61
+all_0_80 acc_ratio:0.5037481259370314
+all_0_90 acc_ratio:0.3595
+all_0_100 acc_ratio:0.238
+
+rate_0.04 acc_ratio:0.994
+rate_0.06 acc_ratio:0.9786666666666667
+rate_0.08 acc_ratio:0.93525
+rate_0.10 acc_ratio:0.8444
+rate_0.12 acc_ratio:0.7491666666666666
+rate_0.14 acc_ratio:0.7021428571428572
+rate_0.16 acc_ratio:0.632375
+
+edge_0_30 acc_ratio:0.993
+edge_0_40 acc_ratio:0.9945
+edge_0_50 acc_ratio:0.9925
+edge_0_60 acc_ratio:0.9885
+edge_0_70 acc_ratio:0.9505
+edge_0_80 acc_ratio:0.867
+edge_0_90 acc_ratio:0.679
+edge_0_100 acc_ratio:0.514
+
+node_0_30 acc_ratio:0.993
+node_0_40 acc_ratio:0.9595
+node_0_50 acc_ratio:0.8805
+node_0_60 acc_ratio:0.7735
+node_0_70 acc_ratio:0.629
+node_0_80 acc_ratio:0.5245
+node_0_90 acc_ratio:0.405
+node_0_100 acc_ratio:0.306
+
+all_0_30 acc_ratio:0.9945
+all_0_40 acc_ratio:0.949
+all_0_50 acc_ratio:0.884
+all_0_60 acc_ratio:0.726
+all_0_70 acc_ratio:0.6235
+all_0_80 acc_ratio:0.48875562218890556
+all_0_90 acc_ratio:0.3635
+all_0_100 acc_ratio:0.242
+
+rate_0.04 acc_ratio:0.9945
+rate_0.06 acc_ratio:0.98
+rate_0.08 acc_ratio:0.938
+rate_0.10 acc_ratio:0.8396
+rate_0.12 acc_ratio:0.7638333333333334
+rate_0.14 acc_ratio:0.6894285714285714
+rate_0.16 acc_ratio:0.63025
+
+edge_0_30 acc_ratio:0.9905
+edge_0_40 acc_ratio:0.9855
+edge_0_50 acc_ratio:0.9915
+edge_0_60 acc_ratio:0.986
+edge_0_70 acc_ratio:0.9595
+edge_0_80 acc_ratio:0.8665
+edge_0_90 acc_ratio:0.6745
+edge_0_100 acc_ratio:0.5045
+
+node_0_30 acc_ratio:0.993
+node_0_40 acc_ratio:0.962
+node_0_50 acc_ratio:0.8765
+node_0_60 acc_ratio:0.7785
+node_0_70 acc_ratio:0.6455
+node_0_80 acc_ratio:0.507
+node_0_90 acc_ratio:0.409
+node_0_100 acc_ratio:0.329
+
+all_0_30 acc_ratio:0.994
+all_0_40 acc_ratio:0.949
+all_0_50 acc_ratio:0.8745
+all_0_60 acc_ratio:0.7305
+all_0_70 acc_ratio:0.621
+all_0_80 acc_ratio:0.49025487256371814
+all_0_90 acc_ratio:0.357
+all_0_100 acc_ratio:0.2495
+
+rate_0.04 acc_ratio:0.9945
+rate_0.06 acc_ratio:0.98
+rate_0.08 acc_ratio:0.941
+rate_0.10 acc_ratio:0.8462
+rate_0.12 acc_ratio:0.7643333333333333
+rate_0.14 acc_ratio:0.6914285714285714
+rate_0.16 acc_ratio:0.632625
+
+edge_0_30 acc_ratio:0.9885
+edge_0_40 acc_ratio:0.993
+edge_0_50 acc_ratio:0.9835
+edge_0_60 acc_ratio:0.9855
+edge_0_70 acc_ratio:0.956
+edge_0_80 acc_ratio:0.863
+edge_0_90 acc_ratio:0.6815
+edge_0_100 acc_ratio:0.5
+
+node_0_30 acc_ratio:0.9905
+node_0_40 acc_ratio:0.958
+node_0_50 acc_ratio:0.876
+node_0_60 acc_ratio:0.78
+node_0_70 acc_ratio:0.6235
+node_0_80 acc_ratio:0.5085
+node_0_90 acc_ratio:0.396
+node_0_100 acc_ratio:0.311
+
+all_0_30 acc_ratio:0.9905
+all_0_40 acc_ratio:0.948
+all_0_50 acc_ratio:0.8635
+all_0_60 acc_ratio:0.717
+all_0_70 acc_ratio:0.6215
+all_0_80 acc_ratio:0.4912543728135932
+all_0_90 acc_ratio:0.3525
+all_0_100 acc_ratio:0.247
+
+size_2_10 acc_ratio:0.9925
+size_2_12 acc_ratio:0.993
+size_2_14 acc_ratio:0.988
+size_2_16 acc_ratio:0.9575
+size_2_18 acc_ratio:0.9305
+size_2_20 acc_ratio:0.8905
+
+rate_0.04 acc_ratio:0.9925
+rate_0.06 acc_ratio:0.9786666666666667
+rate_0.08 acc_ratio:0.93325
+rate_0.10 acc_ratio:0.8444
+rate_0.12 acc_ratio:0.7646666666666667
+rate_0.14 acc_ratio:0.7047142857142857
+rate_0.16 acc_ratio:0.620375
+
+edge_0_30 acc_ratio:0.994
+edge_0_40 acc_ratio:0.992
+edge_0_50 acc_ratio:0.991
+edge_0_60 acc_ratio:0.991
+edge_0_70 acc_ratio:0.9535
+edge_0_80 acc_ratio:0.8525
+edge_0_90 acc_ratio:0.684
+edge_0_100 acc_ratio:0.5115
+
+node_0_30 acc_ratio:0.997
+node_0_40 acc_ratio:0.9645
+node_0_50 acc_ratio:0.893
+node_0_60 acc_ratio:0.7875
+node_0_70 acc_ratio:0.6195
+node_0_80 acc_ratio:0.5245
+node_0_90 acc_ratio:0.4105
+node_0_100 acc_ratio:0.315
+
+all_0_30 acc_ratio:0.9935
+all_0_40 acc_ratio:0.961
+all_0_50 acc_ratio:0.8635
+all_0_60 acc_ratio:0.725
+all_0_70 acc_ratio:0.6155
+all_0_80 acc_ratio:0.5092453773113443
+all_0_90 acc_ratio:0.36
+all_0_100 acc_ratio:0.2405
+
+size_2_10 acc_ratio:0.989
+size_2_12 acc_ratio:0.991
+size_2_14 acc_ratio:0.984
+size_2_16 acc_ratio:0.955
+size_2_18 acc_ratio:0.929
+size_2_20 acc_ratio:0.8985
+
+rate_0.04 acc_ratio:0.993
+rate_0.06 acc_ratio:0.9733333333333334
+rate_0.08 acc_ratio:0.93375
+rate_0.10 acc_ratio:0.8526
+rate_0.12 acc_ratio:0.7521666666666667
+rate_0.14 acc_ratio:0.6855714285714286
+rate_0.16 acc_ratio:0.637125
+
+edge_0_30 acc_ratio:0.996
+edge_0_40 acc_ratio:0.9905
+edge_0_50 acc_ratio:0.99
+edge_0_60 acc_ratio:0.9875
+edge_0_70 acc_ratio:0.96
+edge_0_80 acc_ratio:0.8595
+edge_0_90 acc_ratio:0.686
+edge_0_100 acc_ratio:0.5145
+
+node_0_30 acc_ratio:0.9965
+node_0_40 acc_ratio:0.9615
+node_0_50 acc_ratio:0.8695
+node_0_60 acc_ratio:0.783
+node_0_70 acc_ratio:0.6405
+node_0_80 acc_ratio:0.515
+node_0_90 acc_ratio:0.401
+node_0_100 acc_ratio:0.3245
+
+all_0_30 acc_ratio:0.994
+all_0_40 acc_ratio:0.9695
+all_0_50 acc_ratio:0.882
+all_0_60 acc_ratio:0.7385
+all_0_70 acc_ratio:0.6205
+all_0_80 acc_ratio:0.5037481259370314
+all_0_90 acc_ratio:0.3555
+all_0_100 acc_ratio:0.24
+
+size_2_10 acc_ratio:0.992
+size_2_12 acc_ratio:0.9895
+size_2_14 acc_ratio:0.981
+size_2_16 acc_ratio:0.9585
+size_2_18 acc_ratio:0.9225
+size_2_20 acc_ratio:0.8855
+
+rate_0.04 acc_ratio:0.9945
+rate_0.06 acc_ratio:0.9836666666666667
+rate_0.08 acc_ratio:0.934
+rate_0.10 acc_ratio:0.8442
+rate_0.12 acc_ratio:0.7588333333333334
+rate_0.14 acc_ratio:0.697
+rate_0.16 acc_ratio:0.624375
+
+edge_0_30 acc_ratio:0.991
+edge_0_40 acc_ratio:0.9865
+edge_0_50 acc_ratio:0.9955
+edge_0_60 acc_ratio:0.981
+edge_0_70 acc_ratio:0.963
+edge_0_80 acc_ratio:0.865
+edge_0_90 acc_ratio:0.6785
+edge_0_100 acc_ratio:0.5135
+
+node_0_30 acc_ratio:0.9895
+node_0_40 acc_ratio:0.9565
+node_0_50 acc_ratio:0.897
+node_0_60 acc_ratio:0.7685
+node_0_70 acc_ratio:0.6335
+node_0_80 acc_ratio:0.5105
+node_0_90 acc_ratio:0.403
+node_0_100 acc_ratio:0.3045
+
+all_0_30 acc_ratio:0.9845
+all_0_40 acc_ratio:0.9575
+all_0_50 acc_ratio:0.868
+all_0_60 acc_ratio:0.745
+all_0_70 acc_ratio:0.6145
+all_0_80 acc_ratio:0.4832583708145927
+all_0_90 acc_ratio:0.355
+all_0_100 acc_ratio:0.238
+
+size_2_10 acc_ratio:0.9925
+size_2_12 acc_ratio:0.988
+size_2_14 acc_ratio:0.981
+size_2_16 acc_ratio:0.963
+size_2_18 acc_ratio:0.93
+size_2_20 acc_ratio:0.8955
+
+rate_0.04 acc_ratio:0.9935
+rate_0.06 acc_ratio:0.984
+rate_0.08 acc_ratio:0.93175
+rate_0.10 acc_ratio:0.838
+rate_0.12 acc_ratio:0.766
+rate_0.14 acc_ratio:0.6904285714285714
+rate_0.16 acc_ratio:0.624125
+
+edge_0_30 acc_ratio:0.9935
+edge_0_40 acc_ratio:0.993
+edge_0_50 acc_ratio:0.994
+edge_0_60 acc_ratio:0.989
+edge_0_70 acc_ratio:0.9675
+edge_0_80 acc_ratio:0.862
+edge_0_90 acc_ratio:0.685
+edge_0_100 acc_ratio:0.5055
+
+node_0_30 acc_ratio:0.9935
+node_0_40 acc_ratio:0.947
+node_0_50 acc_ratio:0.886
+node_0_60 acc_ratio:0.768
+node_0_70 acc_ratio:0.625
+node_0_80 acc_ratio:0.506
+node_0_90 acc_ratio:0.405
+node_0_100 acc_ratio:0.3145
+
+all_0_30 acc_ratio:0.994
+all_0_40 acc_ratio:0.959
+all_0_50 acc_ratio:0.86
+all_0_60 acc_ratio:0.744
+all_0_70 acc_ratio:0.613
+all_0_80 acc_ratio:0.49825087456271866
+all_0_90 acc_ratio:0.3445
+all_0_100 acc_ratio:0.2405
+
+size_2_10 acc_ratio:0.9955
+size_2_12 acc_ratio:0.9935
+size_2_14 acc_ratio:0.9825
+size_2_16 acc_ratio:0.954
+size_2_18 acc_ratio:0.9305
+size_2_20 acc_ratio:0.879
+
+rate_0.04 acc_ratio:0.995
+rate_0.06 acc_ratio:0.972
+rate_0.08 acc_ratio:0.93375
+rate_0.10 acc_ratio:0.8524
+rate_0.12 acc_ratio:0.7605
+rate_0.14 acc_ratio:0.7035714285714286
+rate_0.16 acc_ratio:0.63725
+
+edge_0_30 acc_ratio:0.984
+edge_0_40 acc_ratio:0.991
+edge_0_50 acc_ratio:0.9895
+edge_0_60 acc_ratio:0.9875
+edge_0_70 acc_ratio:0.959
+edge_0_80 acc_ratio:0.8525
+edge_0_90 acc_ratio:0.6765
+edge_0_100 acc_ratio:0.501
+
+node_0_30 acc_ratio:0.993
+node_0_40 acc_ratio:0.9595
+node_0_50 acc_ratio:0.8815
+node_0_60 acc_ratio:0.785
+node_0_70 acc_ratio:0.6345
+node_0_80 acc_ratio:0.509
+node_0_90 acc_ratio:0.3995
+node_0_100 acc_ratio:0.3065
+
+all_0_30 acc_ratio:0.9915
+all_0_40 acc_ratio:0.9545
+all_0_50 acc_ratio:0.8705
+all_0_60 acc_ratio:0.742
+all_0_70 acc_ratio:0.6015
+all_0_80 acc_ratio:0.496751624187906
+all_0_90 acc_ratio:0.3425
+all_0_100 acc_ratio:0.237
+
+size_2_10 acc_ratio:0.9945
+size_2_12 acc_ratio:0.9905
+size_2_14 acc_ratio:0.9815
+size_2_16 acc_ratio:0.9565
+size_2_18 acc_ratio:0.9415
+size_2_20 acc_ratio:0.8845
+
+rate_0.04 acc_ratio:0.996
+rate_0.06 acc_ratio:0.9823333333333333
+rate_0.08 acc_ratio:0.93575
+rate_0.10 acc_ratio:0.8466
+rate_0.12 acc_ratio:0.7616666666666667
+rate_0.14 acc_ratio:0.7025714285714286
+rate_0.16 acc_ratio:0.632375
+
+edge_0_30 acc_ratio:0.9925
+edge_0_40 acc_ratio:0.987
+edge_0_50 acc_ratio:0.9915
+edge_0_60 acc_ratio:0.9865
+edge_0_70 acc_ratio:0.96
+edge_0_80 acc_ratio:0.866
+edge_0_90 acc_ratio:0.675
+edge_0_100 acc_ratio:0.508
+
+node_0_30 acc_ratio:0.988
+node_0_40 acc_ratio:0.9605
+node_0_50 acc_ratio:0.874
+node_0_60 acc_ratio:0.77
+node_0_70 acc_ratio:0.6115
+node_0_80 acc_ratio:0.5065
+node_0_90 acc_ratio:0.394
+node_0_100 acc_ratio:0.309
+
+all_0_30 acc_ratio:0.989
+all_0_40 acc_ratio:0.9605
+all_0_50 acc_ratio:0.8665
+all_0_60 acc_ratio:0.7285
+all_0_70 acc_ratio:0.601
+all_0_80 acc_ratio:0.5032483758120939
+all_0_90 acc_ratio:0.371
+all_0_100 acc_ratio:0.2445
+
+size_2_10 acc_ratio:0.9915
+size_2_12 acc_ratio:0.9895
+size_2_14 acc_ratio:0.981
+size_2_16 acc_ratio:0.955
+size_2_18 acc_ratio:0.9355
+size_2_20 acc_ratio:0.89
+
+rate_0.04 acc_ratio:0.992
+rate_0.06 acc_ratio:0.9853333333333333
+rate_0.08 acc_ratio:0.9335
+rate_0.10 acc_ratio:0.8386
+rate_0.12 acc_ratio:0.759
+rate_0.14 acc_ratio:0.7024285714285714
+rate_0.16 acc_ratio:0.6275
+
+edge_0_30 acc_ratio:0.99
+edge_0_40 acc_ratio:0.9925
+edge_0_50 acc_ratio:0.991
+edge_0_60 acc_ratio:0.981
+edge_0_70 acc_ratio:0.9605
+edge_0_80 acc_ratio:0.8725
+edge_0_90 acc_ratio:0.6815
+edge_0_100 acc_ratio:0.499
+
+node_0_30 acc_ratio:0.9925
+node_0_40 acc_ratio:0.946
+node_0_50 acc_ratio:0.876
+node_0_60 acc_ratio:0.785
+node_0_70 acc_ratio:0.6115
+node_0_80 acc_ratio:0.496
+node_0_90 acc_ratio:0.3955
+node_0_100 acc_ratio:0.317
+
+all_0_30 acc_ratio:0.9875
+all_0_40 acc_ratio:0.9545
+all_0_50 acc_ratio:0.8715
+all_0_60 acc_ratio:0.7475
+all_0_70 acc_ratio:0.6295
+all_0_80 acc_ratio:0.4912543728135932
+all_0_90 acc_ratio:0.3475
+all_0_100 acc_ratio:0.2365
+
+size_2_10 acc_ratio:0.9895
+size_2_12 acc_ratio:0.988
+size_2_14 acc_ratio:0.9815
+size_2_16 acc_ratio:0.96
+size_2_18 acc_ratio:0.9295
+size_2_20 acc_ratio:0.896
+
+rate_0.04 acc_ratio:0.988
+rate_0.06 acc_ratio:0.971
+rate_0.08 acc_ratio:0.93425
+rate_0.10 acc_ratio:0.8438
+rate_0.12 acc_ratio:0.7566666666666667
+rate_0.14 acc_ratio:0.6912857142857143
+rate_0.16 acc_ratio:0.623125
+
+edge_0_30 acc_ratio:0.9915
+edge_0_40 acc_ratio:0.994
+edge_0_50 acc_ratio:0.9935
+edge_0_60 acc_ratio:0.9805
+edge_0_70 acc_ratio:0.963
+edge_0_80 acc_ratio:0.8525
+edge_0_90 acc_ratio:0.6795
+edge_0_100 acc_ratio:0.5115
+
+node_0_30 acc_ratio:0.995
+node_0_40 acc_ratio:0.9495
+node_0_50 acc_ratio:0.8805
+node_0_60 acc_ratio:0.762
+node_0_70 acc_ratio:0.6425
+node_0_80 acc_ratio:0.4985
+node_0_90 acc_ratio:0.4155
+node_0_100 acc_ratio:0.3205
+
+all_0_30 acc_ratio:0.994
+all_0_40 acc_ratio:0.9535
+all_0_50 acc_ratio:0.869
+all_0_60 acc_ratio:0.7205
+all_0_70 acc_ratio:0.6285
+all_0_80 acc_ratio:0.4917541229385307
+all_0_90 acc_ratio:0.355
+all_0_100 acc_ratio:0.235
+
+size_2_10 acc_ratio:0.995
+size_2_12 acc_ratio:0.987
+size_2_14 acc_ratio:0.9835
+size_2_16 acc_ratio:0.956
+size_2_18 acc_ratio:0.933
+size_2_20 acc_ratio:0.884
+
+rate_0.04 acc_ratio:0.9935
+rate_0.06 acc_ratio:0.9816666666666667
+rate_0.08 acc_ratio:0.933
+rate_0.10 acc_ratio:0.8436
+rate_0.12 acc_ratio:0.7618333333333334
+rate_0.14 acc_ratio:0.6964285714285714
+rate_0.16 acc_ratio:0.630875
+
+edge_0_30 acc_ratio:0.991
+edge_0_40 acc_ratio:0.985
+edge_0_50 acc_ratio:0.985
+edge_0_60 acc_ratio:0.9845
+edge_0_70 acc_ratio:0.9615
+edge_0_80 acc_ratio:0.8575
+edge_0_90 acc_ratio:0.6955
+edge_0_100 acc_ratio:0.5
+
+node_0_30 acc_ratio:0.993
+node_0_40 acc_ratio:0.956
+node_0_50 acc_ratio:0.87
+node_0_60 acc_ratio:0.7685
+node_0_70 acc_ratio:0.645
+node_0_80 acc_ratio:0.515
+node_0_90 acc_ratio:0.3995
+node_0_100 acc_ratio:0.3145
+
+all_0_30 acc_ratio:0.995
+all_0_40 acc_ratio:0.9745
+all_0_50 acc_ratio:0.87
+all_0_60 acc_ratio:0.749
+all_0_70 acc_ratio:0.615
+all_0_80 acc_ratio:0.4962518740629685
+all_0_90 acc_ratio:0.3565
+all_0_100 acc_ratio:0.247
+
+size_2_10 acc_ratio:0.994
+size_2_12 acc_ratio:0.988
+size_2_14 acc_ratio:0.9815
+size_2_16 acc_ratio:0.9605
+size_2_18 acc_ratio:0.9335
+size_2_20 acc_ratio:0.884
+
+rate_0.04 acc_ratio:0.9945
+rate_0.06 acc_ratio:0.9786666666666667
+rate_0.08 acc_ratio:0.9345
+rate_0.10 acc_ratio:0.8428
+rate_0.12 acc_ratio:0.7555
+rate_0.14 acc_ratio:0.7018571428571428
+rate_0.16 acc_ratio:0.613875
+
+edge_0_30 acc_ratio:0.994
+edge_0_40 acc_ratio:0.9895
+edge_0_50 acc_ratio:0.9915
+edge_0_60 acc_ratio:0.9935
+edge_0_70 acc_ratio:0.963
+edge_0_80 acc_ratio:0.86
+edge_0_90 acc_ratio:0.671
+edge_0_100 acc_ratio:0.51
+
+node_0_30 acc_ratio:0.994
+node_0_40 acc_ratio:0.954
+node_0_50 acc_ratio:0.8735
+node_0_60 acc_ratio:0.7645
+node_0_70 acc_ratio:0.6485
+node_0_80 acc_ratio:0.517
+node_0_90 acc_ratio:0.406
+node_0_100 acc_ratio:0.308
+
+all_0_30 acc_ratio:0.9905
+all_0_40 acc_ratio:0.947
+all_0_50 acc_ratio:0.861
+all_0_60 acc_ratio:0.7385
+all_0_70 acc_ratio:0.5965
+all_0_80 acc_ratio:0.5037481259370314
+all_0_90 acc_ratio:0.335
+all_0_100 acc_ratio:0.2355
+
+size_2_10 acc_ratio:0.992
+size_2_12 acc_ratio:0.9885
+size_2_14 acc_ratio:0.9875
+size_2_16 acc_ratio:0.963
+size_2_18 acc_ratio:0.9275
+size_2_20 acc_ratio:0.8875
+
+rate_0.04 acc_ratio:0.9885
+rate_0.06 acc_ratio:0.979
+rate_0.08 acc_ratio:0.9435
+rate_0.10 acc_ratio:0.839
+rate_0.12 acc_ratio:0.7526666666666667
+rate_0.14 acc_ratio:0.695
+rate_0.16 acc_ratio:0.623
+
+edge_0_30 acc_ratio:0.9905
+edge_0_40 acc_ratio:0.991
+edge_0_50 acc_ratio:0.993
+edge_0_60 acc_ratio:0.984
+edge_0_70 acc_ratio:0.9645
+edge_0_80 acc_ratio:0.865
+edge_0_90 acc_ratio:0.6915
+edge_0_100 acc_ratio:0.5075
+
+node_0_30 acc_ratio:0.994
+node_0_40 acc_ratio:0.953
+node_0_50 acc_ratio:0.8665
+node_0_60 acc_ratio:0.78
+node_0_70 acc_ratio:0.632
+node_0_80 acc_ratio:0.5
+node_0_90 acc_ratio:0.4065
+node_0_100 acc_ratio:0.316
+
+all_0_30 acc_ratio:0.992
+all_0_40 acc_ratio:0.9605
+all_0_50 acc_ratio:0.8735
+all_0_60 acc_ratio:0.7455
+all_0_70 acc_ratio:0.6345
+all_0_80 acc_ratio:0.5047476261869065
+all_0_90 acc_ratio:0.352
+all_0_100 acc_ratio:0.242
+
+size_2_10 acc_ratio:0.9955
+size_2_12 acc_ratio:0.9935
+size_2_14 acc_ratio:0.9825
+size_2_16 acc_ratio:0.957
+size_2_18 acc_ratio:0.933
+size_2_20 acc_ratio:0.879
+
+rate_0.04 acc_ratio:0.9925
+rate_0.06 acc_ratio:0.9833333333333333
+rate_0.08 acc_ratio:0.944
+rate_0.10 acc_ratio:0.8414
+rate_0.12 acc_ratio:0.7541666666666667
+rate_0.14 acc_ratio:0.7
+rate_0.16 acc_ratio:0.62425
+
+edge_0_30 acc_ratio:0.9925
+edge_0_40 acc_ratio:0.9925
+edge_0_50 acc_ratio:0.9875
+edge_0_60 acc_ratio:0.98
+edge_0_70 acc_ratio:0.9695
+edge_0_80 acc_ratio:0.8785
+edge_0_90 acc_ratio:0.684
+edge_0_100 acc_ratio:0.51
+
+node_0_30 acc_ratio:0.9955
+node_0_40 acc_ratio:0.9565
+node_0_50 acc_ratio:0.8715
+node_0_60 acc_ratio:0.753
+node_0_70 acc_ratio:0.634
+node_0_80 acc_ratio:0.503
+node_0_90 acc_ratio:0.406
+node_0_100 acc_ratio:0.312
+
+all_0_30 acc_ratio:0.993
+all_0_40 acc_ratio:0.9455
+all_0_50 acc_ratio:0.873
+all_0_60 acc_ratio:0.7425
+all_0_70 acc_ratio:0.622
+all_0_80 acc_ratio:0.5067466266866567
+all_0_90 acc_ratio:0.3635
+all_0_100 acc_ratio:0.24
+
+size_2_10 acc_ratio:0.993
+size_2_12 acc_ratio:0.993
+size_2_14 acc_ratio:0.984
+size_2_16 acc_ratio:0.951
+size_2_18 acc_ratio:0.931
+size_2_20 acc_ratio:0.892
+
+rate_0.04 acc_ratio:0.9955
+rate_0.06 acc_ratio:0.9766666666666667
+rate_0.08 acc_ratio:0.9415
+rate_0.10 acc_ratio:0.8468
+rate_0.12 acc_ratio:0.767
+rate_0.14 acc_ratio:0.6934285714285714
+rate_0.16 acc_ratio:0.634875
+
+edge_0_30 acc_ratio:0.994
+edge_0_40 acc_ratio:0.9935
+edge_0_50 acc_ratio:0.9875
+edge_0_60 acc_ratio:0.984
+edge_0_70 acc_ratio:0.96
+edge_0_80 acc_ratio:0.8615
+edge_0_90 acc_ratio:0.676
+edge_0_100 acc_ratio:0.499
+
+node_0_30 acc_ratio:0.995
+node_0_40 acc_ratio:0.957
+node_0_50 acc_ratio:0.8735
+node_0_60 acc_ratio:0.776
+node_0_70 acc_ratio:0.634
+node_0_80 acc_ratio:0.4895
+node_0_90 acc_ratio:0.391
+node_0_100 acc_ratio:0.32
+
+all_0_30 acc_ratio:0.991
+all_0_40 acc_ratio:0.9605
+all_0_50 acc_ratio:0.8655
+all_0_60 acc_ratio:0.745
+all_0_70 acc_ratio:0.5975
+all_0_80 acc_ratio:0.5092453773113443
+all_0_90 acc_ratio:0.3595
+all_0_100 acc_ratio:0.2365
+
+size_2_10 acc_ratio:0.9925
+size_2_12 acc_ratio:0.997
+size_2_14 acc_ratio:0.978
+size_2_16 acc_ratio:0.9625
+size_2_18 acc_ratio:0.9335
+size_2_20 acc_ratio:0.879
+
+rate_0.04 acc_ratio:0.995
+rate_0.06 acc_ratio:0.9793333333333333
+rate_0.08 acc_ratio:0.93575
+rate_0.10 acc_ratio:0.8472
+rate_0.12 acc_ratio:0.755
+rate_0.14 acc_ratio:0.7035714285714286
+rate_0.16 acc_ratio:0.640125
+
+edge_0_30 acc_ratio:0.9955
+edge_0_40 acc_ratio:0.9865
+edge_0_50 acc_ratio:0.992
+edge_0_60 acc_ratio:0.987
+edge_0_70 acc_ratio:0.9665
+edge_0_80 acc_ratio:0.859
+edge_0_90 acc_ratio:0.666
+edge_0_100 acc_ratio:0.5095
+
+node_0_30 acc_ratio:0.9935
+node_0_40 acc_ratio:0.9645
+node_0_50 acc_ratio:0.873
+node_0_60 acc_ratio:0.783
+node_0_70 acc_ratio:0.6135
+node_0_80 acc_ratio:0.5115
+node_0_90 acc_ratio:0.397
+node_0_100 acc_ratio:0.3195
+
+all_0_30 acc_ratio:0.992
+all_0_40 acc_ratio:0.9515
+all_0_50 acc_ratio:0.8735
+all_0_60 acc_ratio:0.728
+all_0_70 acc_ratio:0.611
+all_0_80 acc_ratio:0.5067466266866567
+all_0_90 acc_ratio:0.354
+all_0_100 acc_ratio:0.236
+
+size_2_10 acc_ratio:0.995
+size_2_12 acc_ratio:0.989
+size_2_14 acc_ratio:0.976
+size_2_16 acc_ratio:0.9505
+size_2_18 acc_ratio:0.922
+size_2_20 acc_ratio:0.8845
+

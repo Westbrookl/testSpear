@@ -1,0 +1,180 @@
+static acc_ratio:0.234
+static ran_ratio:0.8485
+freq_0.045_ratio:0.9928888888888889
+freq_0.05_ratio:0.2004
+freq_0.055_ratio:0.9767272727272728
+freq_0.06_ratio:0.9653333333333334
+freq_0.065_ratio:0.9584615384615385
+freq_0.07_ratio:0.15857142857142856
+freq_0.075_ratio:0.14773333333333333
+freq_0.08_ratio:0.14475
+edge_ratio:0.9975
+node_ratio:0.8615
+intense_ratio:0.7735
+edge_up_ratio:0.9795
+node_up_ratio:0.6585
+intense_up_ratio:0.632
+very_intense_ratio:0.277
+
+static acc_ratio:0.9935
+static ran_ratio:0.851
+freq_0.045_ratio:0.9942222222222222
+freq_0.05_ratio:0.692
+freq_0.055_ratio:0.9745454545454545
+freq_0.06_ratio:0.9686666666666667
+freq_0.065_ratio:0.16646153846153847
+freq_0.07_ratio:0.9365714285714286
+freq_0.075_ratio:0.15466666666666667
+freq_0.08_ratio:0.9005
+edge_ratio:0.997
+node_ratio:0.8725
+intense_ratio:0.8675
+edge_up_ratio:0.982
+node_up_ratio:0.5785
+intense_up_ratio:0.6555
+very_intense_ratio:0.2765
+
+static acc_ratio:0.2405
+static ran_ratio:0.8585
+freq_0.045_ratio:0.9915555555555555
+freq_0.05_ratio:0.9892
+freq_0.055_ratio:0.9727272727272728
+freq_0.06_ratio:0.964
+freq_0.065_ratio:0.16615384615384615
+freq_0.07_ratio:0.158
+freq_0.075_ratio:0.9058666666666667
+freq_0.08_ratio:0.14275
+edge_ratio:0.998
+node_ratio:0.86
+intense_ratio:0.8695
+edge_up_ratio:0.9795
+node_up_ratio:0.665
+intense_up_ratio:0.6535
+very_intense_ratio:0.2765
+
+static acc_ratio:0.9945
+static ran_ratio:0.846
+freq_0.045_ratio:0.9933333333333333
+freq_0.05_ratio:0.9912
+freq_0.055_ratio:0.976
+freq_0.06_ratio:0.9683333333333334
+freq_0.065_ratio:0.16738461538461538
+freq_0.07_ratio:0.9391428571428572
+freq_0.075_ratio:0.8224
+freq_0.08_ratio:0.1445
+edge_ratio:0.236
+node_ratio:0.871
+intense_ratio:0.8735
+edge_up_ratio:0.9845
+node_up_ratio:0.676
+intense_up_ratio:0.651
+very_intense_ratio:0.2765
+
+static acc_ratio:0.2315
+static ran_ratio:0.8515
+freq_0.045_ratio:0.9844444444444445
+freq_0.05_ratio:0.9888
+freq_0.055_ratio:0.17963636363636365
+freq_0.06_ratio:0.9673333333333334
+freq_0.065_ratio:0.17292307692307693
+freq_0.07_ratio:0.15742857142857142
+freq_0.075_ratio:0.1504
+freq_0.08_ratio:0.90275
+edge_ratio:0.9985
+node_ratio:0.8585
+intense_ratio:0.868
+edge_up_ratio:0.974
+node_up_ratio:0.5735
+intense_up_ratio:0.661
+very_intense_ratio:0.2765
+
+static acc_ratio:0.233
+static ran_ratio:0.8445
+freq_0.045_ratio:0.9937777777777778
+freq_0.05_ratio:0.204
+freq_0.055_ratio:0.17781818181818182
+freq_0.06_ratio:0.173
+freq_0.065_ratio:0.16584615384615384
+freq_0.07_ratio:0.9194285714285715
+freq_0.075_ratio:0.9112
+freq_0.08_ratio:0.1395
+edge_ratio:0.6525
+node_ratio:0.8695
+intense_ratio:0.6765
+edge_up_ratio:0.9785
+node_up_ratio:0.5935
+intense_up_ratio:0.613
+very_intense_ratio:0.265
+
+static acc_ratio:0.2335
+static ran_ratio:0.843
+freq_0.045_ratio:0.21155555555555555
+freq_0.05_ratio:0.9852
+freq_0.055_ratio:0.9730909090909091
+freq_0.06_ratio:0.9666666666666667
+freq_0.065_ratio:0.9467692307692308
+freq_0.07_ratio:0.924
+freq_0.075_ratio:0.9192
+freq_0.08_ratio:0.14
+edge_ratio:0.998
+node_ratio:0.873
+intense_ratio:0.768
+edge_up_ratio:0.223
+node_up_ratio:0.6515
+intense_up_ratio:0.6645
+very_intense_ratio:0.265
+
+static acc_ratio:0.993
+static ran_ratio:0.8435
+freq_0.045_ratio:0.22444444444444445
+freq_0.05_ratio:0.9892
+freq_0.055_ratio:0.9752727272727273
+freq_0.06_ratio:0.18166666666666667
+freq_0.065_ratio:0.9495384615384616
+freq_0.07_ratio:0.9197142857142857
+freq_0.075_ratio:0.1504
+freq_0.08_ratio:0.88325
+edge_ratio:0.997
+node_ratio:0.866
+intense_ratio:0.7695
+edge_up_ratio:0.978
+node_up_ratio:0.642
+intense_up_ratio:0.6835
+very_intense_ratio:0.265
+
+static acc_ratio:0.229
+static ran_ratio:0.847
+freq_0.045_ratio:0.21511111111111111
+freq_0.05_ratio:0.9852
+freq_0.055_ratio:0.1829090909090909
+freq_0.06_ratio:0.185
+freq_0.065_ratio:0.16523076923076924
+freq_0.07_ratio:0.9157142857142857
+freq_0.075_ratio:0.9208
+freq_0.08_ratio:0.134
+edge_ratio:0.241
+node_ratio:0.868
+intense_ratio:0.8835
+edge_up_ratio:0.9775
+node_up_ratio:0.6645
+intense_up_ratio:0.69
+very_intense_ratio:0.265
+
+static acc_ratio:0.9965
+static ran_ratio:0.8455
+freq_0.045_ratio:0.212
+freq_0.05_ratio:0.1984
+freq_0.055_ratio:0.972
+freq_0.06_ratio:0.9666666666666667
+freq_0.065_ratio:0.9513846153846154
+freq_0.07_ratio:0.9188571428571428
+freq_0.075_ratio:0.9082666666666667
+freq_0.08_ratio:0.8895
+edge_ratio:0.5045
+node_ratio:0.8685
+intense_ratio:0.883
+edge_up_ratio:0.234
+node_up_ratio:0.6355
+intense_up_ratio:0.6735
+very_intense_ratio:0.265
+
